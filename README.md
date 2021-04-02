@@ -109,4 +109,3 @@ Patches:
 
 ---
 
-Thank you for your interest, this project was fun and insightful!
